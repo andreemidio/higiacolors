@@ -17,3 +17,5 @@ Quanto aos textos pensaremos juntos.
 
 Estou desenvolvendo um produto de processamento de imagens para tornar mais simples a aquisição de dados em imagens.
 Ainda estou terminando de conceber ele.
+
+Linkedin : https://www.linkedin.com/company/higia-labs/
