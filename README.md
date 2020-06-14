@@ -7,6 +7,7 @@ Preciso de um site institucional simples, mas bonito
 As cores básicas são branco e azul, como estão nas imagens, mas você pode mudar a paleta, mantendo as caracteristicas do logo.
 
 Uma das caracteristicas importante é, eu poder dar manutenção e ser simples, eu entro no código e arrumo ele se precisar.
+O site deve ser  RESPONSIVO, pois irei disseminar muito em redes sociais.
 Será disponibilizado no heroku, e o dominio é https://www.higialabs.tech/
 essa parte eu irei ajudar a colocar no ar, já faço isso com django.
 
