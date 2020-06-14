@@ -2,7 +2,7 @@
 
 Repositório de imagens do Higia Labs
 
-Preciso de um site institucional simples, mas bonito
+Preciso de um site institucional simples, mas bonito, com as páginas de Home, contato(form), sobre e projetos
 
 As cores básicas são branco e azul, como estão nas imagens, mas você pode mudar a paleta, mantendo as caracteristicas do logo.
 
