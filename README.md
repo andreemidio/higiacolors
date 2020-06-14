@@ -8,7 +8,8 @@ As cores básicas são branco e azul, como estão nas imagens, mas você pode mu
 
 Uma das caracteristicas importante é, eu poder dar manutenção e ser simples, eu entro no código e arrumo ele se precisar.
 O site deve ser  RESPONSIVO, pois irei disseminar muito em redes sociais.
-Será disponibilizado no heroku, e o dominio é https://www.higialabs.tech/
+
+Será disponibilizado no heroku ou netlify, e o dominio é https://www.higialabs.tech/
 essa parte eu irei ajudar a colocar no ar, já faço isso com django.
 
 Objetivo a ser mostrado,
@@ -20,3 +21,5 @@ Estou desenvolvendo um produto de processamento de imagens para tornar mais simp
 Ainda estou terminando de conceber ele.
 
 Linkedin : https://www.linkedin.com/company/higia-labs/
+
+Não tenho restrição à tecnologia, desde que seja documentado para que eu possa dar manutenção depois.
