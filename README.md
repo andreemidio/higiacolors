@@ -21,5 +21,6 @@ Estou desenvolvendo um produto de processamento de imagens para tornar mais simp
 Ainda estou terminando de conceber ele.
 
 Linkedin : https://www.linkedin.com/company/higia-labs/
+Instagran : https://www.instagram.com/higialabs/
 
 Não tenho restrição à tecnologia, desde que seja documentado para que eu possa dar manutenção depois.
